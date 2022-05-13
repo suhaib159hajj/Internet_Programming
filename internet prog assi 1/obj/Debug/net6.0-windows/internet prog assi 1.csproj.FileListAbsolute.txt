@@ -1,0 +1,71 @@
+C:\Users\97150\Desktop\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.exe
+C:\Users\97150\Desktop\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.deps.json
+C:\Users\97150\Desktop\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.runtimeconfig.json
+C:\Users\97150\Desktop\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.dll
+C:\Users\97150\Desktop\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.pdb
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.AssemblyReference.cache
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet_prog_assi_1.Form1.resources
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.GenerateResource.cache
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.AssemblyInfoInputs.cache
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.AssemblyInfo.cs
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.CoreCompileInputs.cache
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.dll
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\refint\internet prog assi 1.dll
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.pdb
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.genruntimeconfig.cache
+C:\Users\97150\Desktop\internet prog assi 1\obj\Debug\net6.0-windows\ref\internet prog assi 1.dll
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.exe
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.deps.json
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.runtimeconfig.json
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.dll
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.pdb
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.AssemblyReference.cache
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet_prog_assi_1.Form1.resources
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet_prog_assi_1.Properties.Resources.resources
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.GenerateResource.cache
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.AssemblyInfoInputs.cache
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.AssemblyInfo.cs
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.CoreCompileInputs.cache
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.dll
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\refint\internet prog assi 1.dll
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.pdb
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.genruntimeconfig.cache
+C:\Users\sahaj\Desktop\internet prog assi\internet prog assi 1\obj\Debug\net6.0-windows\ref\internet prog assi 1.dll
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.exe
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.deps.json
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.runtimeconfig.json
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.dll
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\bin\Debug\net6.0-windows\ref\internet prog assi 1.dll
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.pdb
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet_prog_assi_1.Form1.resources
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet_prog_assi_1.Properties.Resources.resources
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.AssemblyInfo.cs
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.dll
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\ref\internet prog assi 1.dll
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.pdb
+C:\Users\HP\Downloads\Compressed\internet prog assi 1-20220506T224146Z-001\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.genruntimeconfig.cache
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.exe
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.deps.json
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.runtimeconfig.json
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.dll
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\bin\Debug\net6.0-windows\internet prog assi 1.pdb
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.AssemblyReference.cache
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet_prog_assi_1.Form1.resources
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet_prog_assi_1.Properties.Resources.resources
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.GenerateResource.cache
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.AssemblyInfoInputs.cache
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.AssemblyInfo.cs
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.csproj.CoreCompileInputs.cache
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.dll
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\refint\internet prog assi 1.dll
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.pdb
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\internet prog assi 1.genruntimeconfig.cache
+C:\Users\sahaj\Desktop\internet prog assi 1\internet prog assi 1\obj\Debug\net6.0-windows\ref\internet prog assi 1.dll
